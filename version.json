@@ -1,6 +1,6 @@
 {
-  "version": "3.0.4",
+  "version": "3.0.5",
   "url": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/Silk.Explorer.Setup.exe",
-  "filesUrl": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/silk-update-3.0.4.zip",
-  "notes": "Context menu replaced with right sidebar actions panel. Performance optimizations."
+  "filesUrl": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/silk-update-3.0.5.zip",
+  "notes": "New sharing: Local Network + WiFi Hotspot, beautiful mobile download page, multi-file ZIP bundling. QR codes removed."
 }

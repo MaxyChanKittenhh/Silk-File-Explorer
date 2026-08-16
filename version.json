@@ -1,6 +1,6 @@
 {
-  "version": "3.0.3",
+  "version": "3.0.4",
   "url": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/Silk.Explorer.Setup.exe",
-  "filesUrl": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/silk-update-3.0.3.zip",
-  "notes": "Send to phone via QR, ZIP peek, encrypted vault, multi-tab editor, hover folder stats, compact context menu."
+  "filesUrl": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/silk-update-3.0.4.zip",
+  "notes": "Context menu replaced with right sidebar actions panel. Performance optimizations."
 }

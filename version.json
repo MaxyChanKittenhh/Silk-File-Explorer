@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "url": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/Silk.Explorer.Setup.exe",
-  "notes": "Initial public release."
+  "notes": "Dual pane mode, ZIP compress/extract, in-app video player, context menu fix."
 }

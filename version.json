@@ -1,6 +1,6 @@
 {
-  "version": "3.0.2",
+  "version": "3.0.3",
   "url": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/Silk.Explorer.Setup.exe",
-  "filesUrl": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/silk-update-3.0.2.zip",
-  "notes": "New: in-app quick update (no installer download), Copy Name, Copy SHA-256, folder size in status bar, middle-click opens folder in new tab, SHA-256 in Properties."
+  "filesUrl": "https://github.com/MaxyChanKittenhh/Silk-File-Explorer/releases/latest/download/silk-update-3.0.3.zip",
+  "notes": "Send to phone via QR, ZIP peek, encrypted vault, multi-tab editor, hover folder stats, compact context menu."
 }
